@@ -181,4 +181,7 @@ int main() {
     
 
    // jan
+   //every changes makes a man perfect...so accect all the changes...
+   ////////////////////////////////
+   //Nothing to say here.i just try to learn little thing about GITHUB...
 }
